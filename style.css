@@ -1,0 +1,11 @@
+p {
+  color: orange;
+}
+
+.pClass {
+  font-size: 100px;
+}
+
+#pId {
+  font-size: 1000px;
+}
